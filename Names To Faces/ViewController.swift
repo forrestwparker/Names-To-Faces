@@ -2,13 +2,10 @@
 //  ViewController.swift
 //  Names To Faces
 //
-//  Created by Forrest Parker on 5/2/18.
-//  Copyright © 2018 Forrest Parker. All rights reserved.
-//
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UICollectionViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
