@@ -12,4 +12,4 @@ Modified by [Project 12: User Defaults](https://www.hackingwithswift.com/read/12
 "Learn how to save user settings and data for later use."
 
 #### Note
-The code in this branch is referred to as Project 12a on the Hacking With Swift website.
+The code in this branch is referred to as Project 12b on the Hacking With Swift website.
